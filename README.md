@@ -40,6 +40,13 @@ This implementation is optimized for facial landmark detection tasks, especially
 - Modular and scalable architecture  
 
 ---
+Acknowledgments
+
+#Inspired by the original HRNet paper:
+
+“Deep High-Resolution Representation Learning for Visual Recognition”
+
+--- 
 
 # Architecture Summary
 
@@ -59,3 +66,4 @@ Stage 4 (Multi-Scale Fusion)
 Final Landmark Head
         ↓
 Predicted Facial Keypoints
+
